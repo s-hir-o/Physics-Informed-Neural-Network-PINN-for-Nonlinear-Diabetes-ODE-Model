@@ -103,8 +103,6 @@ A representative output plot is provided in `results.png`.
 ```
 .
 ├── pinn_model.py      # Neural network architecture
-├── train.py           # Training loop and loss definitions
-├── predict.py         # Inference and visualization
 ├── results.png        # Output plot
 ├── requirements.txt   # Dependencies
 └── README.md
