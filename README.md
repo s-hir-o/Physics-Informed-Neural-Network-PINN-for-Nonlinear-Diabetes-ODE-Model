@@ -149,7 +149,7 @@ python predict.py
 ## References
 
 Diabetes compartmental model based on a published research study.
-Provide a link to the original paper here.
+
 
 ---
 
@@ -162,6 +162,5 @@ Parameter estimation and optimal control formulations are not included.
 
 ## Author
 
-Your Name
 GitHub: https://github.com/s-hir-o
 
